@@ -1,0 +1,2 @@
+const set=new set(['Beethoven','Mozart','Chopin','Chopin'])
+set.delete('Beethoven')
